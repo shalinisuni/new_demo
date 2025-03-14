@@ -5,3 +5,6 @@ if a > b:
     print(a)
 else:
     print(b)
+
+c=5
+print(c)
