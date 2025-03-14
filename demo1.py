@@ -7,4 +7,6 @@ else:
     print(b)
 
 c=5
+d=6
 print(c)
+print(d)
